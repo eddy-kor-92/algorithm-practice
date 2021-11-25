@@ -1,3 +1,3 @@
 
-rootProject.name = "algo-practice"
+rootProject.name = "algorithm-practice"
 
